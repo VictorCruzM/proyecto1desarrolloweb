@@ -24,3 +24,14 @@ BODY  {
  font-family : arial;
  color : White;
 }
+
+a{
+    border: 2px solid #000;
+    background:#F87A7A;
+    border-radius: 5px;
+    padding:10px;
+    position:absolute;
+    top:200px;    
+    left: 300px;
+     text-decoration : none;
+}
